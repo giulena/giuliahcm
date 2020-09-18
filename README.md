@@ -1,34 +1,34 @@
 ## Giulia Helena Cavassim Medeiros
 
-Acadêmica de Direito da Universidade Federal do Paraná, coordenadora do grupo Iuris Trivium (período de 2018-2020)
+Acadêmica de Direito da Universidade Federal do Paraná.
+Coordenadora do Grupo de Pesquisa em Tribunal do Júri Iuris Trivium (UFPR, 2018-2020).
+Membra do Núcleo de Estudos em Filosofia e Teoria do Direito (NEFIT UFPR), do Núcleo de Pesquisa em Direito Penal Econômico (NUPPE UFPR), do Projeto de Extensão em Tribunal do Júri (UFPR, 2018-2020) e do Núcleo de Pesquisa em Tribunal do Júri (FAE).
+Pesquisadora de Iniciação Científica, sob orientação do prof. Dr. Guilherme Brenner Lucchesi.
 
-### 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publicações
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+- 
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Áreas de pesquisa
 
-### Jekyll Themes
+Grandes áreas: Direito Penal, Processual Penal e Criminologia.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/giulena/giuliahcm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Estudos dedicados, especialmente, aos temas de autoritarismo e direito penal, responsabilidade penal de pessoas jurídicas, modelo significativo de teoria do delito, processo penal e Tribunal do Júri, crimes dolosos contra a vida, entre outros temas.
+
+### Experiência profissional
+
+```
+1. PROCURADORIA GERAL DE JUSTIÇA (PGJ-PR). Estagiária no gabinete do 1º Procurador do 5º Grupo Criminal, Paulo César Busato.
+   Período de janeiro de 2019 até atualmente.
+2. TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ. Estagiária na seção de Agravos de Instrumento aos Tribunais Superiores (STF/STJ).
+   Período de abril de 2018 a janeiro de 2019.
+   
+```
 
 ### Support or Contact
 
