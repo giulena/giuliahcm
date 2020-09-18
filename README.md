@@ -8,32 +8,29 @@ Membra do Núcleo de Estudos em Filosofia e Teoria do Direito (NEFIT UFPR), do N
 
 Pesquisadora de Iniciação Científica, sob orientação do prof. Dr. Guilherme Brenner Lucchesi.
 
-### Publicações
-
-```markdown
-
-- MEDEIROS, Giulia H. C.; BUENO, João Victor Stall. O confisco alargado no pacote anticrime: pipipopopo. [Link](http://lattes.cnpq.br/)
-
-[Link](url) and ![Image](src)
-```
-
 ### Áreas de pesquisa
 
 Grandes áreas: Direito Penal, Processual Penal e Criminologia.
 
 Estudos dedicados, especialmente, aos temas de autoritarismo e direito penal, responsabilidade penal de pessoas jurídicas, modelo significativo de teoria do delito, processo penal e Tribunal do Júri, crimes dolosos contra a vida, entre outros temas.
 
+### Publicações
+
+```markdown
+
+- MEDEIROS, Giulia H. C.; BUENO, João Victor Stall. O confisco alargado no pacote anticrime: uma análise de sua (in)constitucionalidade. In: _aaaa_ [Link](http://lattes.cnpq.br/)
+
+[Link](url) and ![Image](src)
+```
+
 ### Experiência profissional
 
-```
 1. PROCURADORIA GERAL DE JUSTIÇA (PGJ-PR). Estagiária no gabinete do 1º Procurador do 5º Grupo Criminal, Paulo César Busato.
    Período de janeiro de 2019 até atualmente.
    
 2. TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ. Estagiária na seção de Agravos de Instrumento aos Tribunais Superiores (STF/STJ).
    Período de abril de 2018 a janeiro de 2019.
-   
-```
 
-### Support or Contact
+### Outras informações
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Atualizar
